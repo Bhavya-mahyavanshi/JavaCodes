@@ -147,8 +147,8 @@ class test{
     public static void main(String[] args){
 
         //Qestion 1: TowerOfHanoi;
-        /*int n = 3;
-        towerOfHanoi(n, "S", "H", "D");*/
+        int n = 3;
+        towerOfHanoi(n, "S", "H", "D");
 
         //Question 2: Print a string in revese
         /*String str = "abcd";
@@ -181,7 +181,7 @@ class test{
         uniqsunseq(str, 0, "",set);*/
 
         //Question 9: print keypad comination
-        String str = "4";
-        printComb(str, 0, "");
+        // String str = "4";
+        // printComb(str, 0, "");
     }
 }
